@@ -1,4 +1,6 @@
 //main program
+//Name: Joe Mittone
+//Desc: A Nice Game Of Tic Tac Toe
 
 #include <iostream>
 #include "tictac.h"
